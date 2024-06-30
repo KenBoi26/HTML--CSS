@@ -1,0 +1,8 @@
+.google-searchbox {
+    width: 450px;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 17px;
+    border: none;
+    box-shadow: -1px -1px 6px rgb(189, 188, 188);
+}
