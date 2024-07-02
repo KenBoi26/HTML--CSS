@@ -1,0 +1,16 @@
+p{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 40px;
+    padding-left: 20px;
+    border: none;
+    background-color: rgba(238, 238, 238, 1);
+}
